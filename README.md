@@ -10,5 +10,7 @@ RANSAC, SIFT, multi-stitch (Nov, 2017)
 • Use the transformation to warp one image into another, and stitch them together.
 
 ref: 
+
 Distinctive Image Features from Scale-Invariant Keypoints, David G. Lowe
+
 Stanford CS131
